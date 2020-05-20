@@ -1,0 +1,2299 @@
+Mar 05, 2020 6:51:11 AM tiktak.app.server.Server main
+INFO: New client just connected
+Mar 05, 2020 6:51:11 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Mar 05, 2020 6:51:11 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Mar 05, 2020 6:51:11 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Mar 05, 2020 6:51:11 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Mar 05, 2020 6:51:12 AM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+Mar 05, 2020 6:51:12 AM tiktak.app.server.Server$Connection ltrsl_message
+INFO: Writing to Client: ACK
+Mar 05, 2020 6:52:14 AM tiktak.app.server.Server main
+INFO: New client just connected
+Mar 05, 2020 6:52:14 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Mar 05, 2020 6:52:14 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Mar 05, 2020 6:52:14 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Mar 05, 2020 6:52:14 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Mar 05, 2020 6:52:14 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Mar 05, 2020 6:52:14 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Mar 05, 2020 6:55:32 AM tiktak.app.server.Server main
+INFO: New client just connected
+Mar 05, 2020 6:55:32 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Mar 05, 2020 6:55:32 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Mar 05, 2020 6:55:32 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Mar 05, 2020 6:55:32 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Mar 05, 2020 6:55:32 AM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+Mar 05, 2020 6:55:32 AM tiktak.app.server.Server$Connection ltrsl_message
+INFO: Writing to Client: ACK
+Mar 05, 2020 6:55:57 AM tiktak.app.server.Server main
+INFO: New client just connected
+Mar 05, 2020 6:55:57 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Mar 05, 2020 6:55:57 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Mar 05, 2020 6:55:57 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Mar 05, 2020 6:55:57 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Mar 05, 2020 6:55:57 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Mar 05, 2020 6:55:57 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Mar 05, 2020 6:56:45 AM tiktak.app.server.Server main
+INFO: New client just connected
+Mar 05, 2020 6:56:45 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Mar 05, 2020 6:56:45 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Mar 05, 2020 6:56:45 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Mar 05, 2020 6:56:45 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Mar 05, 2020 6:56:45 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Mar 05, 2020 6:56:45 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Mar 05, 2020 7:07:11 AM tiktak.app.server.Server main
+SEVERE: Unable to start: Bad password file
+Mar 09, 2020 3:05:28 PM tiktak.app.server.Server main
+INFO: New client just connected
+Mar 09, 2020 3:05:28 PM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Mar 09, 2020 3:05:28 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Mar 09, 2020 3:05:28 PM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Mar 09, 2020 3:05:28 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Mar 09, 2020 3:05:28 PM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Mar 09, 2020 3:05:28 PM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Mar 09, 2020 3:05:50 PM tiktak.app.server.Server main
+INFO: New client just connected
+Mar 09, 2020 3:05:50 PM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Mar 09, 2020 3:05:50 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Mar 09, 2020 3:05:50 PM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Mar 09, 2020 3:05:50 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Mar 09, 2020 3:05:50 PM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+Mar 09, 2020 3:05:50 PM tiktak.app.server.Server$Connection ltrsl_message
+INFO: Writing to Client: ACK
+Mar 09, 2020 3:05:55 PM tiktak.app.server.Server main
+INFO: New client just connected
+Mar 09, 2020 3:05:55 PM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Mar 09, 2020 3:05:55 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Mar 09, 2020 3:05:55 PM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Mar 09, 2020 3:05:55 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Mar 09, 2020 3:05:55 PM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Mar 09, 2020 3:05:55 PM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Mar 09, 2020 3:06:00 PM tiktak.app.server.Server main
+INFO: New client just connected
+Mar 09, 2020 3:06:00 PM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Mar 09, 2020 3:06:00 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Mar 09, 2020 3:06:00 PM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Mar 09, 2020 3:06:00 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Mar 09, 2020 3:06:00 PM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Mar 09, 2020 3:06:00 PM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Mar 24, 2020 12:12:44 AM tiktak.app.server.Server main
+INFO: New client just connected
+Mar 24, 2020 12:12:44 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Mar 24, 2020 12:12:44 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Mar 24, 2020 12:12:44 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Mar 24, 2020 12:12:44 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Mar 24, 2020 12:12:44 AM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+Mar 24, 2020 12:12:44 AM tiktak.app.server.Server$Connection ltrsl_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 12:22:35 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 12:22:35 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 12:22:35 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 12:22:35 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 12:22:35 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 12:22:35 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 12:22:35 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 12:22:45 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 12:22:45 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 12:22:45 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 12:22:45 AM tiktak.app.server.Server$Connection run
+SEVERE: No such user Chigo67
+Apr 15, 2020 12:23:27 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 12:23:27 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 12:23:27 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 12:23:27 AM tiktak.app.server.Server$Connection run
+SEVERE: No such user Chigo67
+Apr 15, 2020 12:40:38 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 12:40:38 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 12:40:38 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 12:40:38 AM tiktak.app.server.Server$Connection run
+SEVERE: No such user Chigo67
+Apr 15, 2020 12:55:04 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 12:55:04 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 12:55:18 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 12:55:18 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 12:55:23 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 12:55:23 AM tiktak.app.server.Server$Connection run
+SEVERE: Unable to authenticate: Invalid Credentials message
+Apr 15, 2020 12:58:38 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 12:58:38 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 12:58:48 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 12:58:48 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 12:59:05 AM tiktak.app.server.Server$Connection run
+SEVERE: Invalid message: Unrecognized message
+Apr 15, 2020 12:59:16 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 12:59:16 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 12:59:24 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 12:59:24 AM tiktak.app.server.Server$Connection check_queue
+WARNING: Unexpected message ID: id=Chigo
+Apr 15, 2020 12:59:32 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 12:59:32 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 12:59:41 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 12:59:41 AM tiktak.app.server.Server$Connection check_queue
+WARNING: Unexpected message ID: id=Chigo
+Apr 15, 2020 12:59:51 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 12:59:51 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 1:00:01 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 1:00:01 AM tiktak.app.server.Server$Connection check_queue
+WARNING: Unexpected message ID: id=Chigo
+Apr 15, 2020 1:00:34 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 1:00:34 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 1:00:43 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 1:00:43 AM tiktak.app.server.Server$Connection check_queue
+WARNING: Unexpected message ID: id=Chigo
+Apr 15, 2020 1:03:18 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 1:03:18 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 1:03:25 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 1:03:25 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 1:03:35 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 1:03:35 AM tiktak.app.server.Server$Connection run
+SEVERE: Unable to authenticate: Invalid Credentials message
+Apr 15, 2020 1:04:29 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 1:04:29 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 1:04:35 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 1:04:35 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 1:04:40 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 1:04:40 AM tiktak.app.server.Server$Connection run
+SEVERE: Unable to authenticate: Invalid Credentials message
+Apr 15, 2020 1:05:03 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 1:05:03 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 1:05:23 AM tiktak.app.server.Server$Connection run
+SEVERE: Unable to communicate: Problem connecting with client
+Apr 15, 2020 1:05:31 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 1:05:31 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 1:05:38 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 1:05:38 AM tiktak.app.server.Server$Connection check_queue
+WARNING: Unexpected message ID: id=Chigo
+Apr 15, 2020 1:05:49 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 1:05:49 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 1:05:53 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 1:05:53 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 1:06:01 AM tiktak.app.server.Server$Connection run
+SEVERE: Invalid message: Unrecognized message
+Apr 15, 2020 1:06:21 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 1:06:21 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 1:06:32 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 1:06:32 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 1:06:37 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 1:06:37 AM tiktak.app.server.Server$Connection run
+SEVERE: Unable to authenticate: Invalid Credentials message
+Apr 15, 2020 1:15:22 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 1:15:22 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 1:15:34 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 1:15:34 AM tiktak.app.server.Server$Connection run
+SEVERE: No such user foo
+Apr 15, 2020 2:14:13 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:14:13 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:14:33 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:14:33 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 2:14:41 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 2:14:41 AM tiktak.app.server.Server$Connection run
+SEVERE: Unable to authenticate:
+
+Apr 15, 2020 2:17:34 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:17:34 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:17:39 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:17:39 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 2:17:44 AM tiktak.app.server.Server$Connection run
+SEVERE: Invalid message: Unrecognized message
+Apr 15, 2020 2:18:12 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:18:12 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:18:18 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:18:18 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 2:18:24 AM tiktak.app.server.Server$Connection run
+SEVERE: Invalid message: Unrecognized message
+Apr 15, 2020 2:18:53 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:18:53 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:18:57 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:18:57 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 2:19:03 AM tiktak.app.server.Server$Connection run
+SEVERE: Invalid message: Unrecognized message
+Apr 15, 2020 2:20:28 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:20:28 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:20:32 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:20:32 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 2:20:38 AM tiktak.app.server.Server$Connection run
+SEVERE: Invalid message: Unrecognized message
+Apr 15, 2020 2:22:32 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:22:32 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:22:36 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:22:36 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 2:22:40 AM tiktak.app.server.Server$Connection run
+SEVERE: Invalid message: Unrecognized message
+Apr 15, 2020 2:23:11 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:23:11 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:23:16 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:23:16 AM tiktak.app.server.Server$Connection check_queue
+WARNING: Unexpected message ID: id=Chigo
+Apr 15, 2020 2:23:27 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:23:27 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:23:30 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:23:30 AM tiktak.app.server.Server$Connection check_queue
+WARNING: Unexpected message ID: id=Chigo
+Apr 15, 2020 2:23:42 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:23:42 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:23:46 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:23:46 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 2:23:49 AM tiktak.app.server.Server$Connection run
+SEVERE: Invalid message: Unrecognized message
+Apr 15, 2020 2:23:55 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:23:55 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:24:00 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:24:00 AM tiktak.app.server.Server$Connection check_queue
+WARNING: Unexpected message ID: id=Chigo
+Apr 15, 2020 2:30:11 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:30:11 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:30:15 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:30:15 AM tiktak.app.server.Server$Connection check_queue
+WARNING: Unexpected message ID: id=CHi
+Apr 15, 2020 2:30:31 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:30:31 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:30:31 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:30:31 AM tiktak.app.server.Server$Connection run
+SEVERE: No such user Chigo67
+Apr 15, 2020 2:31:39 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:31:39 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:31:48 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:31:48 AM tiktak.app.server.Server$Connection run
+SEVERE: No such user Chigo67
+Apr 15, 2020 2:31:54 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:31:54 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:31:58 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:31:58 AM tiktak.app.server.Server$Connection check_queue
+WARNING: Unexpected message ID: id=Chigo
+Apr 15, 2020 2:32:00 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:32:00 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:32:04 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:32:04 AM tiktak.app.server.Server$Connection check_queue
+WARNING: Unexpected message ID: id=Chigo
+Apr 15, 2020 2:32:26 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:32:26 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:32:30 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:32:30 AM tiktak.app.server.Server$Connection check_queue
+WARNING: Unexpected message ID: id=Chigo
+Apr 15, 2020 2:32:40 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:32:40 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:32:45 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:32:45 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 2:32:51 AM tiktak.app.server.Server$Connection run
+SEVERE: Invalid message: Unrecognized message
+Apr 15, 2020 2:34:19 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:34:19 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:34:39 AM tiktak.app.server.Server$Connection run
+SEVERE: Unable to communicate: Problem connecting with client
+Apr 15, 2020 2:39:03 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:39:03 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:39:07 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:39:07 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 2:39:12 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 2:39:12 AM tiktak.app.server.Server$Connection run
+SEVERE: Unable to authenticate: Invalid Credentials message
+Apr 15, 2020 2:44:20 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:44:20 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:44:40 AM tiktak.app.server.Server$Connection run
+SEVERE: Unable to communicate: Problem connecting with client
+Apr 15, 2020 2:48:34 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:48:34 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:48:54 AM tiktak.app.server.Server$Connection run
+SEVERE: Unable to communicate: Problem connecting with client
+Apr 15, 2020 2:51:19 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:51:19 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:51:29 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:51:29 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 2:51:31 AM tiktak.app.server.Server$Connection run
+SEVERE: Unable to communicate: Problem connecting with client
+Apr 15, 2020 2:53:25 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:53:25 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:53:45 AM tiktak.app.server.Server$Connection run
+SEVERE: Unable to communicate: Problem connecting with client
+Apr 15, 2020 2:53:56 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:53:56 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:53:56 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:53:56 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 2:53:56 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 2:53:56 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 2:53:56 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 2:58:19 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:58:19 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:58:39 AM tiktak.app.server.Server$Connection run
+SEVERE: Unable to communicate: Problem connecting with client
+Apr 15, 2020 2:58:46 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 2:58:46 AM tiktak.app.server.Server$Connection run
+INFO: Sending Version message
+Apr 15, 2020 2:58:46 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 2:58:46 AM tiktak.app.server.Server$Connection clng_message
+INFO: Writing to Client: Challenge
+Apr 15, 2020 2:58:46 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 2:58:46 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 2:58:46 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 3:16:23 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 3:16:23 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 3:16:24 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 3:16:24 AM tiktak.app.server.Server$Connection clng_message
+INFO: 15 Writing to Client: Challenge
+Apr 15, 2020 3:16:24 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 3:16:24 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 3:16:24 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 3:44:56 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 3:44:56 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 3:44:56 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 3:44:56 AM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 3:44:56 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 3:44:56 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 3:44:56 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 3:47:25 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 3:47:25 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 3:47:25 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 3:47:25 AM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 3:47:25 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 3:47:25 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 3:47:25 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 3:48:54 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 3:48:54 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 3:48:54 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 3:48:54 AM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 3:48:54 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 3:48:54 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 3:48:54 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 3:50:10 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 3:50:10 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 3:50:10 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 3:50:10 AM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 3:50:10 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 3:50:10 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 3:50:10 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 3:50:43 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 3:50:43 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 3:50:43 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 3:50:43 AM tiktak.app.server.Server$Connection clng_message
+INFO: 17 Writing to Client: Challenge
+Apr 15, 2020 3:50:43 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 3:50:43 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 3:50:43 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 3:51:20 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 3:51:20 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 15, 2020 3:51:20 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 3:51:20 AM tiktak.app.server.Server$Connection clng_message
+INFO: 18 Writing to Client: Challenge
+Apr 15, 2020 3:51:20 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 3:51:20 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 3:51:20 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 3:51:42 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 3:51:42 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-4,5,main] Sending Version message
+Apr 15, 2020 3:51:42 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 3:51:42 AM tiktak.app.server.Server$Connection clng_message
+INFO: 19 Writing to Client: Challenge
+Apr 15, 2020 3:51:42 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 3:51:42 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 3:51:42 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 4:03:48 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:03:48 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 4:03:48 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:03:48 AM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 4:03:48 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 4:03:48 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 4:03:48 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 4:03:52 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:03:52 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 4:03:52 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:03:52 AM tiktak.app.server.Server$Connection clng_message
+INFO: 17 Writing to Client: Challenge
+Apr 15, 2020 4:03:52 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 4:03:52 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 4:03:52 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 4:03:54 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:03:54 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 15, 2020 4:03:54 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:03:54 AM tiktak.app.server.Server$Connection clng_message
+INFO: 18 Writing to Client: Challenge
+Apr 15, 2020 4:03:54 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 4:03:54 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 4:03:54 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 4:03:59 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:03:59 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-4,5,main] Sending Version message
+Apr 15, 2020 4:03:59 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:03:59 AM tiktak.app.server.Server$Connection clng_message
+INFO: 19 Writing to Client: Challenge
+Apr 15, 2020 4:03:59 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 4:03:59 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 4:03:59 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 4:16:53 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:16:53 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 4:16:57 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:16:57 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 4:17:02 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 Invalid message: Unrecognized message
+Apr 15, 2020 4:17:50 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:17:50 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 4:17:58 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:17:58 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 4:18:02 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 4:18:02 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 Unable to authenticate: Invalid Credentials message
+Apr 15, 2020 4:18:16 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:18:16 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 4:18:20 PM tiktak.app.server.Server$Connection run
+SEVERE: 17 Unable to communicate: Problem connecting with client
+Apr 15, 2020 4:18:35 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:18:35 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 15, 2020 4:18:35 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:18:35 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 18 Unexpected message ID: id=Chigo
+Apr 15, 2020 4:18:49 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:18:49 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-4,5,main] Sending Version message
+Apr 15, 2020 4:18:49 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:18:49 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 19 Unexpected message ID: id=Chigo
+Apr 15, 2020 4:26:13 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:26:13 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 4:26:17 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:26:17 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 4:26:21 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 Invalid message: Unrecognized message
+Apr 15, 2020 4:26:27 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:26:27 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 4:26:32 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:26:32 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo
+Apr 15, 2020 4:26:56 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:26:56 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 15, 2020 4:27:01 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:27:01 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 18 Unexpected message ID: id=Chigo
+Apr 15, 2020 4:27:14 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:27:14 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 4:27:19 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:27:19 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 4:27:23 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 Invalid message: Unrecognized message
+Apr 15, 2020 4:27:56 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:27:56 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 4:27:59 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:27:59 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 4:28:04 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 Invalid message: Unrecognized message
+Apr 15, 2020 4:28:09 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:28:09 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 4:28:13 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:28:13 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo
+Apr 15, 2020 4:32:27 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:32:27 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 4:32:27 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:32:27 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 4:32:27 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 4:32:27 PM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 4:32:27 PM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 4:32:33 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:32:33 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 4:32:37 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:32:37 PM tiktak.app.server.Server$Connection clng_message
+INFO: 17 Writing to Client: Challenge
+Apr 15, 2020 4:32:41 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 4:32:41 PM tiktak.app.server.Server$Connection run
+SEVERE: 17 Unable to authenticate: Invalid Credentials message
+Apr 15, 2020 4:32:48 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:32:48 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 15, 2020 4:32:48 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:32:48 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 18 Unexpected message ID: id=Chigo
+Apr 15, 2020 4:33:01 PM tiktak.app.server.Server$Connection run
+SEVERE: 17 Unable to communicate: Problem connecting with client
+Apr 15, 2020 4:47:10 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:47:10 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 4:47:13 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:47:13 PM tiktak.app.server.Server$Connection clng_message
+INFO: 18 Writing to Client: Challenge
+Apr 15, 2020 4:47:18 PM tiktak.app.server.Server$Connection run
+SEVERE: 18 Invalid message: Unrecognized message
+Apr 15, 2020 4:47:28 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:47:28 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 4:47:31 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:47:31 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 19 Unexpected message ID: id=Chigo
+Apr 15, 2020 4:48:37 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:48:37 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 4:48:42 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:48:42 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 4:48:46 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 4:48:46 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 Unable to authenticate: Invalid Credentials message
+Apr 15, 2020 4:49:01 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:49:01 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 4:49:01 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:49:01 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo
+Apr 15, 2020 4:49:05 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:49:05 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 15, 2020 4:49:05 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:49:05 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 18 Unexpected message ID: id=Chigo
+Apr 15, 2020 4:49:39 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:49:39 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 4:49:43 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:49:43 PM tiktak.app.server.Server$Connection clng_message
+INFO: 18 Writing to Client: Challenge
+Apr 15, 2020 4:49:47 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 4:49:47 PM tiktak.app.server.Server$Connection run
+SEVERE: 18 Unable to authenticate: Invalid Credentials message
+Apr 15, 2020 4:53:05 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:53:05 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 4:53:09 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:53:09 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 4:53:14 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 Invalid message: Unrecognized message
+Apr 15, 2020 4:53:24 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:53:24 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 4:53:24 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:53:24 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo
+Apr 15, 2020 4:53:24 PM tiktak.app.server.Server$Connection run
+SEVERE: 17 Unable to communicate: Problem connecting with client
+Apr 15, 2020 4:53:28 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:53:28 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 15, 2020 4:53:28 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:53:28 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 18 Unexpected message ID: id=Chigo
+Apr 15, 2020 4:53:28 PM tiktak.app.server.Server$Connection run
+SEVERE: 18 Unable to communicate: Problem connecting with client
+Apr 15, 2020 4:57:21 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:57:21 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 4:57:30 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:57:30 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 4:57:35 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 4:57:35 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 Unable to authenticate: Invalid Credentials message
+Apr 15, 2020 4:57:35 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 Unable to communicate: Problem connecting with client
+Apr 15, 2020 4:57:43 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:57:43 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 4:57:43 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:57:43 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo
+Apr 15, 2020 4:57:43 PM tiktak.app.server.Server$Connection run
+SEVERE: 17 Unable to communicate: Problem connecting with client
+Apr 15, 2020 4:59:02 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:59:02 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 4:59:05 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:59:05 PM tiktak.app.server.Server$Connection clng_message
+INFO: 18 Writing to Client: Challenge
+Apr 15, 2020 4:59:10 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 4:59:10 PM tiktak.app.server.Server$Connection run
+SEVERE: 18 Unable to authenticate: Invalid Credentials message
+Apr 15, 2020 4:59:43 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 4:59:43 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 4:59:43 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 4:59:43 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 19 Unexpected message ID: id=Chigo
+Apr 15, 2020 5:01:09 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:01:09 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:01:21 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:01:21 PM tiktak.app.server.Server$Connection clng_message
+INFO: 18 Writing to Client: Challenge
+Apr 15, 2020 5:01:29 PM tiktak.app.server.Server$Connection run
+SEVERE: 18 Invalid message: Unrecognized message
+Apr 15, 2020 5:01:57 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:01:57 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:01:57 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:01:57 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 5:01:57 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 5:01:57 PM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 5:01:57 PM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 5:02:00 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:02:00 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:02:00 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:02:00 PM tiktak.app.server.Server$Connection clng_message
+INFO: 17 Writing to Client: Challenge
+Apr 15, 2020 5:02:00 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 5:02:00 PM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 5:02:00 PM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 5:02:04 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:02:04 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 15, 2020 5:02:04 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:02:04 PM tiktak.app.server.Server$Connection clng_message
+INFO: 18 Writing to Client: Challenge
+Apr 15, 2020 5:02:04 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 5:02:04 PM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 5:02:04 PM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 5:02:06 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:02:06 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-4,5,main] Sending Version message
+Apr 15, 2020 5:02:06 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:02:06 PM tiktak.app.server.Server$Connection clng_message
+INFO: 19 Writing to Client: Challenge
+Apr 15, 2020 5:02:06 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 5:02:06 PM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 5:02:06 PM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 5:14:15 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:14:15 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:14:19 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:14:19 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 5:14:24 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 Invalid message: Unrecognized message
+Apr 15, 2020 5:15:04 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:15:04 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:15:08 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:15:08 PM tiktak.app.server.Server$Connection clng_message
+INFO: 18 Writing to Client: Challenge
+Apr 15, 2020 5:15:23 PM tiktak.app.server.Server$Connection run
+SEVERE: 18 Invalid message: Unrecognized message
+Apr 15, 2020 5:15:45 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:15:45 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:15:45 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:15:45 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 19 Unexpected message ID: id=Chigo
+Apr 15, 2020 5:17:26 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:17:26 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:17:32 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:17:32 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 5:17:36 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 Invalid message: Unrecognized message
+Apr 15, 2020 5:17:45 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:17:45 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:17:45 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:17:45 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo
+Apr 15, 2020 5:20:13 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:20:13 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:20:13 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:20:13 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo2
+Apr 15, 2020 5:20:13 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 Unable to communicate: Problem connecting with client
+Apr 15, 2020 5:20:25 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:20:25 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:20:25 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:20:25 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo
+Apr 15, 2020 5:21:28 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:21:28 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:21:28 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:21:28 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 5:21:28 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 5:21:28 PM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 5:21:28 PM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 5:21:40 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:21:40 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:21:40 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:21:40 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-2,5,main] No such user Chigo2
+Apr 15, 2020 5:21:43 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:21:43 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 15, 2020 5:21:43 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:21:43 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 18 Unexpected message ID: id=Chigo2
+Apr 15, 2020 5:23:04 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:23:04 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:23:04 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:23:04 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo2
+Apr 15, 2020 5:23:18 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:23:18 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:23:18 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:23:18 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo
+Apr 15, 2020 5:23:35 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:23:35 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 15, 2020 5:23:53 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:23:53 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 18 Unexpected message ID: id=Chigo
+Apr 15, 2020 5:25:33 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:25:33 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-4,5,main] Sending Version message
+Apr 15, 2020 5:25:53 PM tiktak.app.server.Server$Connection run
+SEVERE: 19 Unable to communicate: Problem connecting with client
+Apr 15, 2020 5:30:31 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:30:31 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:30:31 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:30:31 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 15, 2020 5:30:31 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 15, 2020 5:30:31 PM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 15, 2020 5:30:31 PM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 15, 2020 5:30:49 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:30:49 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:30:49 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:30:49 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-2,5,main] No such user Chigo4
+Apr 15, 2020 5:31:02 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:31:02 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 15, 2020 5:31:02 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:31:02 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 18 Unexpected message ID: id=Chigo4
+Apr 15, 2020 5:31:11 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:31:11 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-4,5,main] Sending Version message
+Apr 15, 2020 5:31:31 PM tiktak.app.server.Server$Connection run
+SEVERE: 19 Unable to communicate: Problem connecting with client
+Apr 15, 2020 5:32:25 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:32:25 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:32:38 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:32:38 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user chigo
+Apr 15, 2020 5:32:43 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:32:43 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:32:47 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:32:47 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=chigo
+Apr 15, 2020 5:41:57 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:41:57 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:41:57 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:41:57 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 5:42:07 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:42:07 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:42:07 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:42:07 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 5:43:20 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:43:20 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:43:20 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:43:20 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 5:43:23 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:43:23 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:43:23 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:43:23 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 5:44:00 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:44:00 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:44:00 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:44:00 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 5:44:04 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:44:04 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:44:04 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:44:04 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 5:45:45 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:45:45 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:45:46 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:45:46 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 5:45:52 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:45:52 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:45:52 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:45:52 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 5:46:21 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:46:21 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:46:21 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:46:21 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 5:46:26 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:46:26 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:46:26 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:46:26 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 5:49:22 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:49:22 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:49:22 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:49:22 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 5:49:27 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:49:27 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:49:27 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:49:27 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 5:50:17 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:50:17 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:50:17 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:50:17 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 5:50:24 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:50:24 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:50:24 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:50:24 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 5:51:02 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:51:02 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:51:02 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:51:02 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 5:51:07 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:51:07 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:51:07 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:51:07 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 5:53:40 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:53:40 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:53:40 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:53:40 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 5:54:39 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:54:39 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:54:39 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:54:39 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 5:55:39 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:55:39 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:55:39 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:55:39 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 5:55:45 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:55:45 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:55:45 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:55:45 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 5:56:41 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:56:41 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 5:56:41 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:56:41 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 5:56:46 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 5:56:46 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 5:56:46 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 5:56:46 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:05:09 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:05:09 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:05:09 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:05:09 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:06:34 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:06:34 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:06:34 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:06:34 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:06:41 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:06:41 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:06:41 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:06:41 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:07:21 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:07:21 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:07:21 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:07:21 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:07:26 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:07:26 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:07:26 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:07:26 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:08:52 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:08:52 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:08:52 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:08:52 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:08:58 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:08:58 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:08:58 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:08:58 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:10:36 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:10:36 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:10:36 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:10:36 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:10:43 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:10:43 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:10:43 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:10:43 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:11:12 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:11:12 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:11:12 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:11:12 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:11:20 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:11:20 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:11:20 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:11:20 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:12:20 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:12:20 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:12:20 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:12:20 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:12:25 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:12:25 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:12:25 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:12:25 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:12:50 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:12:50 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:12:50 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:12:50 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:12:53 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:12:53 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:12:53 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:12:53 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:14:08 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:14:08 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:14:08 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:14:08 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:14:14 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:14:14 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:14:14 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:14:14 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:14:45 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:14:45 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:14:45 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:14:45 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:14:51 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:14:51 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:14:51 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:14:51 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:15:36 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:15:36 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:15:36 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:15:36 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:15:41 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:15:41 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:15:41 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:15:41 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:16:10 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:16:10 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:16:10 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:16:10 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:16:15 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:16:15 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:16:15 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:16:15 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:16:39 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:16:39 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:16:39 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:16:39 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:16:42 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:16:42 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:16:42 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:16:42 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:17:30 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:17:30 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:17:30 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:17:30 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:17:34 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:17:34 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:17:34 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:17:34 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:18:14 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:18:14 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 15, 2020 6:18:14 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:18:14 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 18 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:19:32 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:19:32 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:19:32 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:19:32 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:19:36 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:19:36 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:19:36 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:19:36 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:22:46 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:22:46 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:22:46 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:22:46 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:22:51 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:22:51 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:22:51 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:22:51 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:25:13 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:25:13 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:25:13 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:25:13 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:25:17 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:25:17 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:25:17 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:25:17 PM tiktak.app.server.Server$Connection check_queue
+WARNING: 17 Unexpected message ID: id=Chigo4
+Apr 15, 2020 6:27:45 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:27:45 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 15, 2020 6:27:45 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:27:45 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 15, 2020 6:27:53 PM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 15, 2020 6:27:53 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 15, 2020 6:27:53 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 15, 2020 6:27:53 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-2,5,main] No such user Chigo4
+Apr 16, 2020 12:02:45 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 12:02:45 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 16, 2020 12:02:45 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 12:02:45 AM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo4
+Apr 16, 2020 12:02:59 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 12:02:59 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 16, 2020 12:02:59 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 12:02:59 AM tiktak.app.server.Server$Connection clng_message
+INFO: 17 Writing to Client: Challenge
+Apr 16, 2020 12:02:59 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 12:02:59 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 12:02:59 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 12:05:51 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 12:05:51 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 16, 2020 12:05:51 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 12:05:51 AM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 16, 2020 12:05:51 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 12:05:51 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 12:05:51 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:18:01 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:18:01 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 16, 2020 3:18:01 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:18:01 AM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user chigo
+Apr 16, 2020 3:18:10 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:18:10 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 16, 2020 3:18:10 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:18:10 AM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-2,5,main] No such user chigo
+Apr 16, 2020 3:18:23 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:18:23 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 16, 2020 3:18:23 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:18:23 AM tiktak.app.server.Server$Connection clng_message
+INFO: 18 Writing to Client: Challenge
+Apr 16, 2020 3:18:23 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:18:23 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 3:18:23 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:18:54 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:18:54 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-4,5,main] Sending Version message
+Apr 16, 2020 3:18:54 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:18:54 AM tiktak.app.server.Server$Connection clng_message
+INFO: 19 Writing to Client: Challenge
+Apr 16, 2020 3:18:55 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:18:55 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 3:18:55 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:18:57 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:18:57 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-5,5,main] Sending Version message
+Apr 16, 2020 3:18:57 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:18:57 AM tiktak.app.server.Server$Connection clng_message
+INFO: 20 Writing to Client: Challenge
+Apr 16, 2020 3:18:57 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:18:57 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 3:18:57 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:19:00 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:19:00 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-6,5,main] Sending Version message
+Apr 16, 2020 3:19:00 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:19:00 AM tiktak.app.server.Server$Connection clng_message
+INFO: 21 Writing to Client: Challenge
+Apr 16, 2020 3:19:00 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:19:00 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 3:19:00 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:19:03 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:19:03 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 16, 2020 3:19:03 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:19:03 AM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 16, 2020 3:19:03 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:19:03 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 3:19:03 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:19:08 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:19:08 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 16, 2020 3:19:08 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:19:08 AM tiktak.app.server.Server$Connection clng_message
+INFO: 17 Writing to Client: Challenge
+Apr 16, 2020 3:19:08 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:19:08 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 3:19:08 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:19:11 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:19:11 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 16, 2020 3:19:11 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:19:11 AM tiktak.app.server.Server$Connection clng_message
+INFO: 18 Writing to Client: Challenge
+Apr 16, 2020 3:19:12 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:19:12 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 3:19:12 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:19:14 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:19:14 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-4,5,main] Sending Version message
+Apr 16, 2020 3:19:14 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:19:14 AM tiktak.app.server.Server$Connection clng_message
+INFO: 19 Writing to Client: Challenge
+Apr 16, 2020 3:19:14 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:19:14 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 3:19:14 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:19:19 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:19:19 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-5,5,main] Sending Version message
+Apr 16, 2020 3:19:19 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:19:19 AM tiktak.app.server.Server$Connection clng_message
+INFO: 20 Writing to Client: Challenge
+Apr 16, 2020 3:19:19 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:19:19 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 3:19:19 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:19:21 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:19:21 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-6,5,main] Sending Version message
+Apr 16, 2020 3:19:21 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:19:21 AM tiktak.app.server.Server$Connection clng_message
+INFO: 21 Writing to Client: Challenge
+Apr 16, 2020 3:19:21 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:19:21 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 3:19:21 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:19:24 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:19:24 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 16, 2020 3:19:24 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:19:24 AM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 16, 2020 3:19:24 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:19:24 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 3:19:24 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:19:26 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:19:26 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 16, 2020 3:19:26 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:19:26 AM tiktak.app.server.Server$Connection clng_message
+INFO: 17 Writing to Client: Challenge
+Apr 16, 2020 3:19:26 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:19:26 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 3:19:26 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:21:14 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:21:14 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 16, 2020 3:21:14 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:21:14 AM tiktak.app.server.Server$Connection clng_message
+INFO: 18 Writing to Client: Challenge
+Apr 16, 2020 3:21:14 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:21:14 AM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+Apr 16, 2020 3:21:14 AM tiktak.app.server.Server$Connection ltrsl_message
+INFO: 18 Writing to Client: ACK
+Apr 16, 2020 3:47:57 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:47:57 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 16, 2020 3:47:57 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:47:57 AM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 16, 2020 3:47:58 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:47:58 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 3:47:58 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:48:02 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:48:02 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 16, 2020 3:48:02 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:48:02 AM tiktak.app.server.Server$Connection clng_message
+INFO: 17 Writing to Client: Challenge
+Apr 16, 2020 3:48:02 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:48:02 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 3:48:02 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:48:05 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:48:05 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 16, 2020 3:48:05 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:48:05 AM tiktak.app.server.Server$Connection clng_message
+INFO: 18 Writing to Client: Challenge
+Apr 16, 2020 3:48:05 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:48:05 AM tiktak.app.server.Server$Connection run
+INFO: Received: TOST
+Apr 16, 2020 3:48:05 AM tiktak.app.server.Server$Connection tost_message
+INFO: Writing to Client: ACK
+Apr 16, 2020 3:49:11 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:49:11 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-4,5,main] Sending Version message
+Apr 16, 2020 3:49:11 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:49:11 AM tiktak.app.server.Server$Connection clng_message
+INFO: 19 Writing to Client: Challenge
+Apr 16, 2020 3:49:11 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:49:11 AM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+Apr 16, 2020 3:49:11 AM tiktak.app.server.Server$Connection ltrsl_message
+INFO: 19 Writing to Client: ACK
+Apr 16, 2020 3:49:13 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:49:13 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-5,5,main] Sending Version message
+Apr 16, 2020 3:49:13 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:49:13 AM tiktak.app.server.Server$Connection clng_message
+INFO: 20 Writing to Client: Challenge
+Apr 16, 2020 3:49:13 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:49:13 AM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+Apr 16, 2020 3:49:13 AM tiktak.app.server.Server$Connection ltrsl_message
+INFO: 20 Writing to Client: ACK
+Apr 16, 2020 3:49:18 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:49:18 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-6,5,main] Sending Version message
+Apr 16, 2020 3:49:18 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:49:18 AM tiktak.app.server.Server$Connection clng_message
+INFO: 21 Writing to Client: Challenge
+Apr 16, 2020 3:49:18 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:49:18 AM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+Apr 16, 2020 3:49:18 AM tiktak.app.server.Server$Connection ltrsl_message
+INFO: 21 Writing to Client: ACK
+Apr 16, 2020 3:49:20 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:49:20 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+Apr 16, 2020 3:49:20 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:49:20 AM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+Apr 16, 2020 3:49:20 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:49:20 AM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+Apr 16, 2020 3:49:20 AM tiktak.app.server.Server$Connection ltrsl_message
+INFO: 16 Writing to Client: ACK
+Apr 16, 2020 3:49:23 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:49:23 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+Apr 16, 2020 3:49:23 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:49:23 AM tiktak.app.server.Server$Connection clng_message
+INFO: 17 Writing to Client: Challenge
+Apr 16, 2020 3:49:23 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:49:23 AM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+Apr 16, 2020 3:49:23 AM tiktak.app.server.Server$Connection ltrsl_message
+INFO: 17 Writing to Client: ACK
+Apr 16, 2020 3:49:28 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:49:28 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+Apr 16, 2020 3:49:28 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:49:28 AM tiktak.app.server.Server$Connection clng_message
+INFO: 18 Writing to Client: Challenge
+Apr 16, 2020 3:49:28 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:49:28 AM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+Apr 16, 2020 3:49:28 AM tiktak.app.server.Server$Connection ltrsl_message
+INFO: 18 Writing to Client: ACK
+Apr 16, 2020 3:49:30 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:49:30 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-4,5,main] Sending Version message
+Apr 16, 2020 3:49:30 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:49:30 AM tiktak.app.server.Server$Connection clng_message
+INFO: 19 Writing to Client: Challenge
+Apr 16, 2020 3:49:30 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:49:30 AM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+Apr 16, 2020 3:49:30 AM tiktak.app.server.Server$Connection ltrsl_message
+INFO: 19 Writing to Client: ACK
+Apr 16, 2020 3:49:32 AM tiktak.app.server.Server main
+INFO: New client just connected
+Apr 16, 2020 3:49:32 AM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-5,5,main] Sending Version message
+Apr 16, 2020 3:49:33 AM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+Apr 16, 2020 3:49:33 AM tiktak.app.server.Server$Connection clng_message
+INFO: 20 Writing to Client: Challenge
+Apr 16, 2020 3:49:33 AM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+Apr 16, 2020 3:49:33 AM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+Apr 16, 2020 3:49:33 AM tiktak.app.server.Server$Connection ltrsl_message
+INFO: 20 Writing to Client: ACK
+May 03, 2020 10:54:51 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 10:54:51 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+May 03, 2020 10:54:51 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+May 03, 2020 10:54:51 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+May 03, 2020 10:54:51 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+May 03, 2020 10:54:52 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 Unable to communicate: Problem connecting with client
+May 03, 2020 11:06:05 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 11:06:05 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+May 03, 2020 11:06:05 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+May 03, 2020 11:06:05 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo5
+May 03, 2020 11:17:43 PM tiktak.app.server.Server2 main
+INFO: New client just connected
+May 03, 2020 11:17:43 PM tiktak.app.server.Server2$Connection run
+INFO: Sending Version message
+May 03, 2020 11:17:43 PM tiktak.app.server.Server2$Connection run
+INFO: Received: ID
+May 03, 2020 11:17:43 PM tiktak.app.server.Server2$Connection run
+SEVERE: No such user Chigo5
+May 03, 2020 11:19:02 PM tiktak.app.server.Server2 main
+INFO: New client just connected
+May 03, 2020 11:19:02 PM tiktak.app.server.Server2$Connection run
+INFO: Sending Version message
+May 03, 2020 11:19:02 PM tiktak.app.server.Server2$Connection run
+INFO: Received: ID
+May 03, 2020 11:19:02 PM tiktak.app.server.Server2$Connection check_queue
+WARNING: Unexpected message ID: id=Chigo
+May 03, 2020 11:19:49 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 11:19:49 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+May 03, 2020 11:19:49 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+May 03, 2020 11:19:49 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+May 03, 2020 11:19:49 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+May 03, 2020 11:19:49 PM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+May 03, 2020 11:19:49 PM tiktak.app.server.Server$Connection ltrsl_message
+INFO: 16 Writing to Client: ACK
+May 03, 2020 11:20:32 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 11:20:32 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+May 03, 2020 11:20:32 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+May 03, 2020 11:20:32 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-1,5,main] No such user Chigo5
+May 03, 2020 11:20:46 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 11:20:46 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+May 03, 2020 11:20:46 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+May 03, 2020 11:20:46 PM tiktak.app.server.Server$Connection clng_message
+INFO: 17 Writing to Client: Challenge
+May 03, 2020 11:20:46 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+May 03, 2020 11:20:46 PM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+May 03, 2020 11:20:46 PM tiktak.app.server.Server$Connection ltrsl_message
+INFO: 17 Writing to Client: ACK
+May 03, 2020 11:25:08 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 11:25:08 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+May 03, 2020 11:25:13 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+May 03, 2020 11:25:13 PM tiktak.app.server.Server$Connection clng_message
+INFO: 18 Writing to Client: Challenge
+May 03, 2020 11:25:24 PM tiktak.app.server.Server$Connection run
+SEVERE: 18 Invalid message: Unrecognized message
+May 03, 2020 11:26:41 PM tiktak.app.server.Server2 main
+INFO: New client just connected
+May 03, 2020 11:26:41 PM tiktak.app.server.Server2$Connection run
+INFO: Sending Version message
+May 03, 2020 11:26:55 PM tiktak.app.server.Server2$Connection run
+INFO: Received: ID
+May 03, 2020 11:26:55 PM tiktak.app.server.Server2$Connection clng_message
+INFO: Writing to Client: Challenge
+May 03, 2020 11:27:08 PM tiktak.app.server.Server2$Connection run
+SEVERE: Invalid message: Unrecognized message
+May 03, 2020 11:27:22 PM tiktak.app.server.Server2 main
+INFO: New client just connected
+May 03, 2020 11:27:22 PM tiktak.app.server.Server2$Connection run
+INFO: Sending Version message
+May 03, 2020 11:27:28 PM tiktak.app.server.Server2$Connection run
+INFO: Received: ID
+May 03, 2020 11:27:28 PM tiktak.app.server.Server2$Connection check_queue
+WARNING: Unexpected message ID: id=Chigo
+May 03, 2020 11:29:03 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 11:29:03 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+May 03, 2020 11:29:07 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+May 03, 2020 11:29:07 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+May 03, 2020 11:29:12 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 Invalid message: Unrecognized message
+May 03, 2020 11:29:38 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 11:29:38 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+May 03, 2020 11:29:42 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+May 03, 2020 11:29:42 PM tiktak.app.server.Server$Connection clng_message
+INFO: 17 Writing to Client: Challenge
+May 03, 2020 11:30:02 PM tiktak.app.server.Server$Connection run
+SEVERE: 17 Unable to communicate: Problem connecting with client
+May 03, 2020 11:30:47 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 11:30:47 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+May 03, 2020 11:30:51 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+May 03, 2020 11:30:51 PM tiktak.app.server.Server$Connection clng_message
+INFO: 18 Writing to Client: Challenge
+May 03, 2020 11:30:57 PM tiktak.app.server.Server$Connection run
+SEVERE: 18 Invalid message: Unrecognized message
+May 03, 2020 11:31:57 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 11:31:57 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+May 03, 2020 11:32:17 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 Unable to communicate: Problem connecting with client
+May 03, 2020 11:32:45 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 11:32:45 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-2,5,main] Sending Version message
+May 03, 2020 11:32:50 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+May 03, 2020 11:32:50 PM tiktak.app.server.Server$Connection clng_message
+INFO: 17 Writing to Client: Challenge
+May 03, 2020 11:32:54 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+May 03, 2020 11:32:54 PM tiktak.app.server.Server$Connection run
+SEVERE: 17 Unable to authenticate: Invalid Credentials message
+May 03, 2020 11:33:23 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 11:33:23 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-3,5,main] Sending Version message
+May 03, 2020 11:33:28 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+May 03, 2020 11:33:28 PM tiktak.app.server.Server$Connection run
+SEVERE: Thread[pool-1-thread-3,5,main] No such user CHIGO
+May 03, 2020 11:33:34 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 11:33:34 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-4,5,main] Sending Version message
+May 03, 2020 11:33:39 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+May 03, 2020 11:33:39 PM tiktak.app.server.Server$Connection clng_message
+INFO: 19 Writing to Client: Challenge
+May 03, 2020 11:33:43 PM tiktak.app.server.Server$Connection run
+SEVERE: 19 Invalid message: Unrecognized message
+May 03, 2020 11:34:23 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 11:34:23 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-5,5,main] Sending Version message
+May 03, 2020 11:34:29 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+May 03, 2020 11:34:29 PM tiktak.app.server.Server$Connection clng_message
+INFO: 20 Writing to Client: Challenge
+May 03, 2020 11:34:33 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+May 03, 2020 11:34:33 PM tiktak.app.server.Server$Connection run
+SEVERE: 20 Unable to authenticate: Invalid Credentials message
+May 03, 2020 11:34:37 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 11:34:37 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-6,5,main] Sending Version message
+May 03, 2020 11:34:52 PM tiktak.app.server.Server main
+INFO: New client just connected
+May 03, 2020 11:34:52 PM tiktak.app.server.Server$Connection run
+INFO: Thread[pool-1-thread-1,5,main] Sending Version message
+May 03, 2020 11:34:52 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+May 03, 2020 11:34:52 PM tiktak.app.server.Server$Connection clng_message
+INFO: 16 Writing to Client: Challenge
+May 03, 2020 11:34:52 PM tiktak.app.server.Server$Connection run
+INFO: Received: CRED
+May 03, 2020 11:34:52 PM tiktak.app.server.Server$Connection run
+INFO: Received: LTSRL
+May 03, 2020 11:34:52 PM tiktak.app.server.Server$Connection ltrsl_message
+INFO: 16 Writing to Client: ACK
+May 03, 2020 11:34:57 PM tiktak.app.server.Server$Connection run
+SEVERE: 21 Unable to communicate: Problem connecting with client
+May 03, 2020 11:35:48 PM tiktak.app.server.Server2 main
+INFO: New client just connected
+May 03, 2020 11:35:48 PM tiktak.app.server.Server2$Connection run
+INFO: Sending Version message
+May 03, 2020 11:35:55 PM tiktak.app.server.Server2$Connection run
+INFO: Received: ID
+May 03, 2020 11:35:55 PM tiktak.app.server.Server2$Connection clng_message
+INFO: Writing to Client: Challenge
+May 03, 2020 11:36:02 PM tiktak.app.server.Server2$Connection run
+INFO: Received: CRED
+May 03, 2020 11:36:02 PM tiktak.app.server.Server2$Connection run
+SEVERE: Unable to authenticate: Invalid Credentials message
+May 03, 2020 11:36:22 PM tiktak.app.server.Server2 main
+INFO: New client just connected
+May 03, 2020 11:36:22 PM tiktak.app.server.Server2$Connection run
+INFO: Sending Version message
+May 03, 2020 11:36:22 PM tiktak.app.server.Server2$Connection run
+INFO: Received: ID
+May 03, 2020 11:36:22 PM tiktak.app.server.Server2$Connection check_queue
+WARNING: Unexpected message ID: id=Chigo
+May 03, 2020 11:42:24 PM tiktak.app.server.Server2 main
+INFO: New client just connected
+May 03, 2020 11:42:24 PM tiktak.app.server.Server2$Connection run
+INFO: Sending Version message
+May 03, 2020 11:42:24 PM tiktak.app.server.Server2$Connection run
+INFO: Received: ID
+May 03, 2020 11:42:24 PM tiktak.app.server.Server2$Connection run
+SEVERE: No such user Chigo2
+May 03, 2020 11:43:09 PM tiktak.app.server.Server main
+INFO: 1 New client just connected
+May 03, 2020 11:43:09 PM tiktak.app.server.Server$Connection run
+INFO: 16 Sending Version message
+May 03, 2020 11:43:09 PM tiktak.app.server.Server$Connection run
+INFO: Received: ID
+May 03, 2020 11:43:09 PM tiktak.app.server.Server$Connection run
+SEVERE: 16 No such user Chigo2
